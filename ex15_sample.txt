@@ -1,0 +1,3 @@
+These are the words I typed into a file.
+These are the letters that make up the words I typed into a file.
+These are the pixels that display the letters that make up the words I typed into a file.
